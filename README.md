@@ -1,2 +1,3 @@
-# calculadora_imc_dio
- Calculadora IMC para desafio DIO
+Calculadora IMC Desafio DIO.
+
+Calculadora funcionando e testes realizados com sucesso.
